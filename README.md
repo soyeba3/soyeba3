@@ -12,4 +12,12 @@ Skills: JAVASCRIPT / REACT / NEXT JS / REDUX / TYPESCRIPT
 
 [![Linkedin](https://raw.githubusercontent.com/saadh393/saadh393/main/images/linkedin.png "Linkedin")](https://www.linkedin.com/in/soyeba3/ "Linkedin") [![Facebook](https://raw.githubusercontent.com/saadh393/saadh393/main/images/fb.png "Facebook")](http://facebook.com/soyeba3 "Facebook") [![Discord](https://raw.githubusercontent.com/saadh393/saadh393/main/images/discord.png "Discord")](https://discordapp.com/users/soyeba3 "Discord") 
 
+## Skills : 
+**Expert** : HTML5, CSS3, Bootstrap, Tailwind, Javascript, React, Redux, React
+Router, Responsive Design etc. 
+<br />
+**Comfortable** : Typescript, Next.js, Node Js, Express Js, MongoDB, Material UI etc.
+<br />
+**Tools**: Chrome Dev tool, Stack overflow, VS code, Github, Git, Netlify, Heroku, Vercel etc.
+
 
