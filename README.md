@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://res.cloudinary.com/ddeqqfgaf/image/upload/f_auto,q_auto/atc8imuedbhn9j1x4dwe)
 
-<!--
-**soyeba3/soyeba3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey There 👋
+I am **Soyeb Chandani**, a young Frontend Developer with over 2 years of experience in programming. Since 2020, I have been passionately working on web development using modern technologies such as React, Node JS, Express JS, MongoDB, and more. I am particularly interested in Web Development and have expertise in HTML, CSS, Javascript, React, Redux, Tailwind CSS, Bootstrap5, React Bootstrap, Material UI, and other tech skills.
 
-Here are some ideas to get you started:
+Skills: JAVASCRIPT / REACT / NEXT JS / REDUX / TYPESCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Next JS
+
+<br/>
+# Find me on Social Platforms
+
+[![Linkedin](https://raw.githubusercontent.com/saadh393/saadh393/main/images/linkedin.png "Linkedin")](https://www.linkedin.com/in/soyeba3/ "Linkedin") [![Facebook](https://raw.githubusercontent.com/saadh393/saadh393/main/images/fb.png "Facebook")](http://facebook.com/soyeba3 "Facebook") [![Discord](https://raw.githubusercontent.com/saadh393/saadh393/main/images/discord.png "Discord")](https://discordapp.com/users/soyeba3 "Discord") 
+
+
