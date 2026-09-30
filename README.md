@@ -1,4 +1,4 @@
-![Soyeb Chandani](https://res.cloudinary.com/ddeqqfgaf/image/upload/f_auto,q_auto/atc8imuedbhn9j1x4dwe)
+![Soyeb Chandani](https://pub-a633afdd2f404a06849de03a12b502d0.r2.dev/github-banner.png)
 
 # Hey there, I'm Soyeb Chandani 👋
 
